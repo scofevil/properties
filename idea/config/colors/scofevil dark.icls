@@ -4,7 +4,7 @@
     <property name="created">2017-07-28T16:47:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-08-09T14:53:49</property>
+    <property name="modified">2017-08-09T15:39:05</property>
     <property name="originalScheme">synchronied scofevil dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -53,7 +53,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="d61c18" />
+        <option name="EFFECT_COLOR" value="d60d0d" />
         <option name="ERROR_STRIPE_COLOR" value="cb2128" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
