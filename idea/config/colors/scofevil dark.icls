@@ -1,0 +1,190 @@
+<scheme name="scofevil dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-07-28T16:47:51</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.2.0.0</property>
+    <property name="modified">2017-08-09T14:53:49</property>
+    <property name="originalScheme">synchronied scofevil dark</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9d893b" />
+      </value>
+    </option>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e6c041" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffd653" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c4c34b" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="ENUM_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d0ae40" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="d61c18" />
+        <option name="ERROR_STRIPE_COLOR" value="cb2128" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b389c5" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4fa5ff" />
+      </value>
+    </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4fa5ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b59c3b" />
+      </value>
+    </option>
+    <option name="JAVA_BRACES">
+      <value />
+    </option>
+    <option name="JAVA_BRACKETS">
+      <value />
+    </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="c3c6c1" />
+      </value>
+    </option>
+    <option name="JAVA_DOT">
+      <value />
+    </option>
+    <option name="JAVA_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="dd8334" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="4a805a" />
+      </value>
+    </option>
+    <option name="JAVA_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="JAVA_OPERATION_SIGN">
+      <value />
+    </option>
+    <option name="JAVA_PARENTH">
+      <value />
+    </option>
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+      </value>
+    </option>
+    <option name="LAMBDA_PARAMETER_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c4827e" />
+      </value>
+    </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="METHOD_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b09958" />
+      </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9c6460" />
+      </value>
+    </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="STATIC_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4fa5ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4fa5ff" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="40332b" />
+        <option name="ERROR_STRIPE_COLOR" value="b59398" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
