@@ -1,21 +1,12 @@
 <scheme name="scofevil dark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-07-28T16:47:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-08-09T15:39:05</property>
+    <property name="modified">2017-08-12T22:31:08</property>
     <property name="originalScheme">synchronied scofevil dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
+  <option name="LINE_SPACING" value="1.05" />
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
